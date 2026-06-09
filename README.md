@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/parthha12/jot-app/releases/download/v2.7.0/jot-logo-full.png" alt="Jot" width="160" />
-</p>
-
 <h1 align="center">Jot for Mac</h1>
 
 <p align="center">
